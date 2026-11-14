@@ -55,4 +55,4 @@ pip install pytest && pytest -q
 
 ## Author
 
-**Sameer Hussain**, [D2Logix](https://d2logix.com). n8n + AI automation for businesses.
+**Sameer Hussain** · [LinkedIn](https://www.linkedin.com/in/sameer-hussain-87368a164) · [D2Logix](https://d2logix.com). n8n + AI automation for businesses.
